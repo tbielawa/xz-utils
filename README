@@ -1,0 +1,7 @@
+Install this if you're using the unofficial Fedora Steam Linux Client
+packages [1]. This will satisfy the Steam requirements which cause a
+console message to appear indicating the xz-utils package is required.
+
+
+
+[1] http://spot.fedorapeople.org/steam/
